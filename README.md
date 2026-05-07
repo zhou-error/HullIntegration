@@ -147,3 +147,7 @@ python main.py
 ## License
 
 MIT License
+
+<p align="center">
+  <sub>欢迎各位友好交流（QQ:2446548274）</sub>
+</p>
