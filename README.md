@@ -42,7 +42,7 @@
 ## 项目结构
 
 ```
-HullIntergration/
+HullIntegration/
 ├── OffsetTable/
 │   ├── OffsetTable.xlsx      # 船舶型值表（用户输入）
 │   └── demo.xlsx             # 型值表模板
